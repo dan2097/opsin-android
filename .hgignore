@@ -1,0 +1,7 @@
+relre:assets/*
+relre:bin/*
+relre:gen/*
+relre:res/*
+.classpath
+.project
+.settings
